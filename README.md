@@ -1,6 +1,6 @@
 # ROT13_Cipher
 
-```
+```py
 def rot13(text):
     ciphered_text = ""
     for c in text:
