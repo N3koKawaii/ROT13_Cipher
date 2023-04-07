@@ -4,11 +4,11 @@ ROT13 Cipher is a simple substitution cipher that replaces the char with 13th ch
 
 ```diff
 -::Sample::
-A -> N<br>
-B -> O<br>
-C -> P<br>
-D -> Q<br>
-E -> R<br>
+A -> N
+B -> O
+C -> P
+D -> Q
+E -> R
 ```
 
 
