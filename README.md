@@ -1,5 +1,13 @@
 # ROT13_Cipher
 
+ROT13 Cipher is a simple substitution cipher that replaces the char with 13th char after it.<br>
+
+```diff
+::Sample::
+```
+
+
+
 ```py
 def rot13(text):
     ciphered_text = ""
